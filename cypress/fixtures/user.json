@@ -1,0 +1,22 @@
+{
+  "student": {
+    "email": "testerStudent",
+    "password": "Password1",
+    "type": "student"
+  },
+  "employer": {
+    "email": "testerEmployer",
+    "password": "Password1",
+    "type": "employer"
+  },
+  "admin": {
+    "email": "testerAdmin",
+    "password": "Password1",
+    "type": "admin"
+  },
+  "institution": {
+    "email": "testerInstitution",
+    "password": "Password1",
+    "type": "institution"
+  }
+}
